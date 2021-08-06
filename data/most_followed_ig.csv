@@ -1,0 +1,101 @@
+,RANK,BRAND,CATEGORIES 1,CATEGORIES 2,FOLLOWERS,ER,iPOSTS ON HASHTAG,MEDIA POSTED
+0,1,Selena Gomez,celebrities,musicians,105400000.0,2.62,14500000.0,1200.0
+1,2,Taylor Swift,celebrities,musicians,95200000.0,1.96,10500000.0,958.0
+2,3,Ariana Grande,celebrities,musicians,92300000.0,1.43,16900000.0,2800.0
+3,4,Beyonce,celebrities,musicians,90600000.0,2.53,9200000.0,1400.0
+4,5,Kim Kardashian West,celebrities,tv,89300000.0,1.39,5100000.0,3600.0
+5,6,Cristiano Ronaldo,celebrities,athletes,85100000.0,2.62,3600000.0,1600.0
+6,7,Kylie,celebrities,models,81800000.0,1.89,6200000.0,4900.0
+7,8,Justin Bieber,celebrities,musicians,77900000.0,1.66,26200000.0,3800.0
+8,9,therock,celebrities,athletes,73300000.0,1.24,1100000.0,2500.0
+9,10,Kendall,celebrities,models,70900000.0,1.78,3400000.0,2700.0
+10,11,Nicki Minaj,celebrities,musicians,70800000.0,0.93,3700000.0,4200.0
+11,12,nike,fashion,sport,68200000.0,1.76,50600000.0,880.0
+12,13,National Geographic,media,,65800000.0,1.14,5300000.0,12700.0
+13,14,Nj,celebrities,athletes,64000000.0,1.52,3300000.0,3600.0
+14,15,Leo Messi,celebrities,athletes,61900000.0,4.27,5100000.0,180.0
+15,16,Khloe,celebrities,tv,60200000.0,2.16,1400000.0,3100.0
+16,17,KATY PERRY,celebrities,musicians,59600000.0,1.5,3300000.0,507.0
+17,18,Miley Cyrus,celebrities,musicians,57800000.0,1.41,6000000.0,5800.0
+18,19,Jennifer Lopez,celebrities,musicians,55100000.0,1.23,1200000.0,1600.0
+19,20,Demi Lovato,celebrities,musicians,51300000.0,2.65,6000000.0,1500.0
+20,21,Kourtney Kardashian,celebrities,tv,50700000.0,1.24,1000000.0,3000.0
+21,22,Victoria's Secret,fashion,,49100000.0,1.03,3500000.0,4300.0
+22,23,badgalriri,celebrities,musicians,47300000.0,1.53,1100000.0,3700.0
+23,24,Kevin Hart,celebrities,actors,45900000.0,0.68,805800.0,4000.0
+24,25,FC Barcelona,sport,football,43300000.0,1.78,2900000.0,8900.0
+25,26,Real Madrid C.F.,sport,football,41800000.0,2.02,6600000.0,1000.0
+26,27,Justin Timberlake,celebrities,musicians,39600000.0,1.42,1200000.0,498.0
+27,28,Ellen,celebrities,tv,38200000.0,1.43,236900.0,4300.0
+28,29,Cara Delevingne,celebrities,models,36200000.0,1.55,1500000.0,3200.0
+29,30,Zendaya,celebrities,musicians,36000000.0,3.02,511400.0,3000.0
+30,31,9gag,entertainment,,35000000.0,2.42,1500000.0,11400.0
+31,32,David Beckham,celebrities,athletes,31700000.0,3.23,430100.0,476.0
+32,33,champagnepapi,celebrities,musicians,31100000.0,1.33,306900.0,3400.0
+33,34,Vin Diesel,celebrities,actors,30200000.0,1.76,394000.0,986.0
+34,35,Shakira,celebrities,musicians,28400000.0,2.06,771000.0,664.0
+35,36,James Rodroguez,celebrities,athletes,27800000.0,2.44,537100.0,634.0
+36,37,Gigi Hadid,celebrities,models,27200000.0,1.63,1600000.0,2300.0
+37,38,LeBron James,celebrities,athletes,27000000.0,1.45,2500000.0,1300.0
+38,39,Gareth Bale,celebrities,athletes,25300000.0,2.88,399200.0,509.0
+39,40,Nike Football (Soccer),fashion,sport,25000000.0,3.2,471000.0,1400.0
+40,41,Zac Efron,celebrities,actors,23800000.0,4.95,508500.0,361.0
+41,42,Vanessa Hudgens,celebrities,actors,22700000.0,2.63,301900.0,1900.0
+42,43,IAmZlatan,celebrities,athletes,21700000.0,3.52,78000.0,314.0
+43,44,Emma Watson,celebrities,actors,21400000.0,7.29,1000000.0,40.0
+44,45,"xoxo, Joanne",celebrities,musicians,20400000.0,1.33,3900000.0,2400.0
+45,46,NBA,sport,basketball,20100000.0,1.13,8700000.0,17800.0
+46,47,harrystyles,celebrities,musicians,19400000.0,12.39,33400000.0,391.0
+47,48,Scott Disick,celebrities,tv,18700000.0,1.59,220400.0,777.0
+48,49,Luis Suarez,celebrities,athletes,18700000.0,2.5,10500.0,176.0
+49,50,Niall Horan,celebrities,musicians,18300000.0,7.59,28200000.0,797.0
+50,51,NASA,other,,18200000.0,2.95,1400000.0,1800.0
+51,52,H&M,fashion,retail,18100000.0,1.0,5400000.0,3000.0
+52,53,Bruna Marquezine _,celebrities,models,17700000.0,1.21,53100.0,2300.0
+53,54,One Direction,celebrities,musicians,17200000.0,10.0,51200000.0,726.0
+54,55,CHANEL,fashion,luxury,17100000.0,0.89,46500000.0,583.0
+55,56,Shawn Mendes,celebrities,musicians,16900000.0,5.43,2200000.0,1500.0
+56,57,Lucy Hale,celebrities,actors,16600000.000000002,3.28,743200.0,3000.0
+57,58,euanitta,celebrities,musicians,16600000.000000002,1.45,447700.0,4900.0
+58,59,Karim Benzema,celebrities,athletes,16500000.0,2.59,660300.0,833.0
+59,60,Marina Ruy Barbosa,celebrities,actors,16399999.999999998,1.02,68500.0,2100.0
+60,61,adidas Originals,fashion,sport,16300000.0,1.22,3000000.0,3100.0
+61,62,David Luiz,celebrities,athletes,15400000.0,1.48,260600.00000000003,1500.0
+62,63,Andres Iniesta,celebrities,athletes,15300000.0,1.87,432600.0,378.0
+63,64,Ashley Benson,celebrities,actors,15200000.0,3.31,728600.0,4000.0
+64,65,ZARA Official,fashion,retail,15200000.0,0.89,13000.0,1200.0
+65,66,Manchester United,sport,football,15100000.0,2.33,902900.0,5500.0
+66,67,Shay Mitchell,celebrities,actors,15000000.0,3.97,691600.0,4300.0
+67,68,Marcelo Vieira Jr.,celebrities,athletes,14700000.0,2.04,601500.0,1300.0
+68,69,BELLA,celebrities,media,14600000.0,2.45,296500.0,4100.0
+69,70,Ciara,celebrities,musicians,14600000.0,1.55,497300.0,2900.0
+70,71,Britney Spears,celebrities,musicians,14500000.0,1.29,1700000.0,1500.0
+71,72,National Geographic Travel,media,,14300000.0,1.52,5300000.0,5900.0
+72,73,Louis Vuitton Official,fashion,luxury,14200000.0,0.74,24300000.0,1700.0
+73,74,snoopdogg,celebrities,musicians,14000000.0,0.46,859000.0,27100.0
+74,75,Floyd Mayweather,celebrities,athletes,14000000.0,1.5,323400.0,505.0
+75,76,Vogue,media,,13700000.0,1.08,446700.0,2900.0
+76,77,Sergio Ramos,celebrities,athletes,13700000.0,3.12,517600.0,577.0
+77,78,Tata Werneck,celebrities,tv,13600000.0,0.83,25400.0,2100.0
+78,79,Daddy Yankee,celebrities,musicians,13300000.0,0.61,313700.0,3200.0
+79,80,Victoria Beckham,celebrities,entrepreneurs,13300000.0,1.45,542500.0,1500.0
+80,81,Dior Official,fashion,luxury,13100000.0,0.74,34400000.0,1900.0
+81,82,MAC Cosmetics,beauty,retail,13000000.0,0.7,7600000.0,3300.0
+82,83,Channing Tatum,celebrities,actors,13000000.0,4.72,485000.0,718.0
+83,84,Robert Downey Jr.,celebrities,tv,12900000.0,3.65,818100.0,133.0
+84,85,elliegoulding,celebrities,musicians,12900000.0,1.75,648900.0,3600.0
+85,86,50 Cent,celebrities,musicians,12900000.0,0.89,688500.0,1400.0
+86,87,Starbucks Coffee,beverages,,12600000.0,3.19,25900000.0,1300.0
+87,88,Anastasia Beverly Hills,beauty,,12300000.0,1.05,7700000.0,8900.0
+88,89,Luan Santana,celebrities,musicians,12200000.0,1.64,590700.0,2700.0
+89,90,Chloe Grace Moretz,celebrities,actors,12200000.0,4.1,47600.0,2400.0
+90,91,adidas,fashion,sport,12100000.0,1.52,26300000.0,1000.0
+91,92,forever21,fashion,,12100000.0,1.68,3900000.0,3800.0
+92,93,Gucci,fashion,luxury,12000000.0,0.55,34200000.0,2600.0
+93,94,Louis Tomlinson,celebrities,musicians,11800000.0,11.42,25500000.0,148.0
+94,95,G-DRAGON,celebrities,fashion,11800000.0,4.45,4600000.0,1900.0
+95,96,DanialvesD2 My Twitter,celebrities,athletes,11700000.0,1.62,122400.0,1700.0
+96,97,Dolce & Gabbana,fashion,luxury,11700000.0,0.48,6100000.0,3900.0
+97,98,Tyga / T-Raww,celebrities,musicians,11600000.0,1.31,1200000.0,2500.0
+98,99,Paul Labile Pogba,celebrities,athletes,11500000.0,6.11,77600.0,396.0
+99,100,Barack Obama,celebrities,political,11500000.0,3.37,2500000.0,231.0
